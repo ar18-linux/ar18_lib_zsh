@@ -1,4 +1,8 @@
+module_name="zsh_ar18_lib"
+
 if [ -z "${install_dir+x}" ]; then
   install_dir="/opt/ar18"
 fi
-module_name="zsh_ar18_lib"
+if [ -z "${user_name+x}" ]; then
+  user_name="$(logname)"
+fi
