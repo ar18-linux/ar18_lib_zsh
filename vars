@@ -1,4 +1,4 @@
-module_name="zsh_ar18_lib"
+module_name="ar18_lib_zsh"
 
 if [ ! -v install_dir ]; then
   install_dir="/opt/ar18"
