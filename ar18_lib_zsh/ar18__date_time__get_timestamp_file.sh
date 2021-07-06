@@ -1,5 +1,4 @@
 #!/usr/bin/env zsh
-# ar18
 
 
 function _ar18__date_time__get_timestamp_file(){

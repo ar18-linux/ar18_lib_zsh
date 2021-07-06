@@ -1,5 +1,4 @@
 #!/usr/bin/env zsh
-# ar18
 
 
 function _ar18__tmux__format_module(){
