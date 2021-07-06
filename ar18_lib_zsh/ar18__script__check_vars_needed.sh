@@ -1,3 +1,5 @@
+#!/usr/bin/env zsh
+# ar18
 
 
 function _ar18__script__check_vars_needed(){

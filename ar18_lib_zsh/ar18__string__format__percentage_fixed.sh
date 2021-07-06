@@ -1,3 +1,5 @@
+#!/usr/bin/env zsh
+# ar18
 
 
 function _ar18__string__format__percentage_fixed(){
